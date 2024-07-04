@@ -8,7 +8,7 @@
   BOT_TOKEN
   ```
    
-3. Запустить контейнер:
+2. Запустить контейнер:
    ```bash
    docker-compose up --build
    ```
