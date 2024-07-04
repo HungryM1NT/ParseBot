@@ -1,6 +1,6 @@
 ## Запуск проекта
 
-1. Создание и .env файла с переменными:
+1. Создать .env файл с переменными:
   ```bash
   POSTGRES_USER
   POSTGRES_DB_PASSWORD
